@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Project_task
-=======
 # Laravel Auth Passport API Skeleton
 
 This skelton comes with basic user auth setup with some packages & those are.
@@ -10,7 +7,7 @@ This skelton comes with basic user auth setup with some packages & those are.
 3. Passport | https://laravel.com/docs/9.x/passport
 
 # Requirements
-# satya s3s3
+
 1. Your system must have PHP verison 8.0 or above.
 
 
@@ -53,4 +50,3 @@ For Test the API Go To - `https://www.postman.com/programmics/workspace/skeleton
 ##### NOTE: If composer install throw error then use `composer install --ignore-platform-reqs`
 
 
->>>>>>> Stashed changes
