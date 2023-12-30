@@ -10,7 +10,7 @@ This skelton comes with basic user auth setup with some packages & those are.
 3. Passport | https://laravel.com/docs/9.x/passport
 
 # Requirements
-# satya
+# satya s3s3
 1. Your system must have PHP verison 8.0 or above.
 
 
