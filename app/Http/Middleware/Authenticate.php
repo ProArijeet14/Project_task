@@ -8,7 +8,7 @@ class Authenticate extends Middleware
 {
     /**
      * Get the path the user should be redirected to when they are not authenticated.
-     *
+     *zDhttps://github.com/programmics-technology/Flutter_3_skeleton_getcli.git
      * @param  \Illuminate\Http\Request  $request
      * @return string|null
      */
